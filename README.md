@@ -1,7 +1,7 @@
 # Spring-study-sources
 
 Official documentation: https://docs.spring.io/spring-framework/reference/
-[Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
+- [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
 
 
 Security:
