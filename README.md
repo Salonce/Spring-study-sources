@@ -1,7 +1,10 @@
 # Spring-study-sources
 
-Official documentation: https://docs.spring.io/spring-framework/reference/
-- [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
+Official documentation:
+- [Spring official docs](https://docs.spring.io/spring-framework/reference/)
+- [Spring boot official docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [Amigoscode youtube channel](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
+- [Ask Chat GPT](https://chat.openai.com/)
 
 
 Security:
